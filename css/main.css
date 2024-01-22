@@ -11,13 +11,30 @@ p {
     color: #666;
 }
 
-a {
+.brandname {
     text-decoration: none;
-    font-family: poppins, sans-serif, Arial, Helvetica, sans-serif, inter;
+    font-family: monospace;
     font-size: 16px;
     font-weight: 600;
     color: rgb(227, 80, 139);
     text-shadow: 0.5px 0.5px 0 rgb(119, 50, 207);
+}
+
+.boldtext {
+    text-decoration: none;
+    font-family: poppins, sans-serif, Arial, Helvetica, sans-serif, inter;
+    font-size: 18px;
+    font-weight: 600;
+    color: #333;
+    text-shadow: 0.5px 0.5px 0 rgb(227, 80, 139);
+}
+
+.featuretext {
+    text-decoration: none;
+    font-family: poppins, sans-serif, Arial, Helvetica, sans-serif, inter;
+    font-size: 16px;
+    font-weight: 600;
+    color: rgb(119, 50, 207);
 }
 
 h1 {
